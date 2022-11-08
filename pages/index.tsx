@@ -1,4 +1,4 @@
-import { Box, Center, Spacer, Stack } from "@chakra-ui/react";
+import { Box, calc, Center, Spacer, Stack } from "@chakra-ui/react";
 import type { NextPage } from "next";
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
@@ -20,10 +20,11 @@ const Home: NextPage = () => {
 
       <Box
         w="full"
+        h={connected ? "" : "calc(100vh)"}
         bgImage={"url(images/home-background.svg)"}
         backgroundPosition="center"
       >
-        <Stack w="full" justify="center">
+        <Stack w="full" h={connected ? "" : "calc(100vh)"} justify="center">
           <NavBar />
 
           <Spacer />
