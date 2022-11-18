@@ -52,14 +52,11 @@ async function createBldToken(
   const imageUri = await metaplex.storage().upload(file);
 
   // Upload the rest of offchain metadata
-  const { uri } = await metaplex
-    .nfts()
-    .uploadMetadata({
-      name: TOKEN_NAME,
-      description: TOKEN_DESCRIPTION,
-      image: imageUri,
-    })
-    .run();
+  const { uri } = await metaplex.nfts().uploadMetadata({
+    name: TOKEN_NAME,
+    description: TOKEN_DESCRIPTION,
+    image: imageUri,
+  });
 
   // Finding out the address where the metadata is stored
   const metadataPda = findMetadataPda(tokenMint);
