@@ -1,0 +1,57 @@
+{
+  "program": {
+    "candyMachine": "ASDQkVhEDJeiraBUfgbDo2xPkr1ja5HJQtx5rh7eLhD5",
+    "candyMachineCreator": "Gp7JKHk8RCfTSpkNGqCPDs9gFb7dASAnKQuJpxL7fUJk",
+    "collectionMint": "CuTEvt8erRuneWkC25yTF4gXPBkc2PdJBto4VRNATz76"
+  },
+  "items": {
+    "-1": {
+      "name": "Gamer Friends Collection",
+      "image_hash": "547bcf1e09694aa1d11573d0d9b9f6c68aaa4e89e2fabf042dd3b61804fd8118",
+      "image_link": "https://arweave.net/eRfWh_OXo_96sFLqiNo_h8t40W1r5-D-aFVAVirVlZU?ext=png",
+      "metadata_hash": "8f5b0a1b938de481289b2fb463768b92ba16269779a3dcbc257881d2e59739a1",
+      "metadata_link": "https://arweave.net/-5frv28NBnSYhLssx6Ii6VuY46MzdXwwZtbw09ibC1c",
+      "onChain": true
+    },
+    "0": {
+      "name": "Gamer Friend #1",
+      "image_hash": "547bcf1e09694aa1d11573d0d9b9f6c68aaa4e89e2fabf042dd3b61804fd8118",
+      "image_link": "https://arweave.net/p0AHeZq5Qy9ybU3zUvA6Dzp0T5NOuuknIY4zX3OISPA?ext=png",
+      "metadata_hash": "b0b9c04415ca2f57d691b0a313d6dfdff5f41e6777a0ecd13ad37103bda58653",
+      "metadata_link": "https://arweave.net/3m0u14OdBN6rsdTu4A88Sx8YLEch7GfY56MFXRFcHVs",
+      "onChain": true
+    },
+    "1": {
+      "name": "Gamer Friend #2",
+      "image_hash": "74f1759ea8a33f81e8e4a91f32c750f6b67d47437cd2da972fbeeebcb1e1755b",
+      "image_link": "https://arweave.net/ekhPVb3KiZFpulaKDQXoSLkC2iuuEK8ZOhRQmBKx_mM?ext=png",
+      "metadata_hash": "3e107a9d371674e009ceb5fb40baece39d460699f684bcd90c6761e3d3a59bdb",
+      "metadata_link": "https://arweave.net/yTci-c1koVD8IKsa9SkAOahXRlPwR5rFTTGx9T3H1Yk",
+      "onChain": true
+    },
+    "2": {
+      "name": "Gamer Friend #3",
+      "image_hash": "867570b90b52ad260edb9f269ea61fd232eb2655cea1b89c7896d805f6d6dd80",
+      "image_link": "https://arweave.net/A8qnldnXbMWmrm8ycCEiCZ_TCmpTMRHerQrSX_MO680?ext=png",
+      "metadata_hash": "63869d2e218d05be70828e673f69d58271522afd8fd042c169701a1b8238bc66",
+      "metadata_link": "https://arweave.net/QMfa5rI5ino-bxDbJBj9nVJpecMBUpu_Y68PflJ1xsg",
+      "onChain": true
+    },
+    "3": {
+      "name": "Gamer Friend #4",
+      "image_hash": "8f817eb5400cd9259e910a1d262c03f53a9950fab33bd9cf7389b30899668693",
+      "image_link": "https://arweave.net/QrVF3BVgHt0Q8w3dv1gfMQDm8slmDB4bt360DH8B8Zg?ext=png",
+      "metadata_hash": "0a292b2601c63fa422a16a0a6fa625e51a32e836c7c38c36879c7948ed059cfa",
+      "metadata_link": "https://arweave.net/fEFTbBCkA2agobAtJxh3o1XD8b0p9aWm7NSi3yhTi_4",
+      "onChain": true
+    },
+    "4": {
+      "name": "Gamer Friend #5",
+      "image_hash": "6ca8f4a61b46d8d8f976456db887b9ae65775ec8022b974973d7d7c3849144f9",
+      "image_link": "https://arweave.net/4D3bmEjHG7mqhWIHIKrBMvEM_SsxFkJDxe5ZWpRCe8I?ext=png",
+      "metadata_hash": "0f1aab1495499c2de8246739dc03fcab2cf176c3990ea208023f525e0a9ba8ae",
+      "metadata_link": "https://arweave.net/vTgbjH7MHCE5XVuz2uQSmGPjMnanei-vtWZoqa_KIbE",
+      "onChain": true
+    }
+  }
+}

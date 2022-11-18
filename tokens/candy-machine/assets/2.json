@@ -1,0 +1,28 @@
+{
+  "name": "Gamer Friend #3",
+  "symbol": "GAMER",
+  "description": "The Gamer Friends are smart gamers who don't rage(maybe they do xD).",
+  "image": "2.png",
+  "attributes": [
+    {
+      "trait_type": "accessory",
+      "value": "mobile"
+    },
+    {
+      "trait_type": "chair",
+      "value": "red"
+    },
+    {
+      "trait_type": "monitor",
+      "value": "none"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
